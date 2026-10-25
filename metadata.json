@@ -1,0 +1,6 @@
+{
+  "name": "English Grammar Exam Grader - Chấm & Luyện Thi Viết Lại Câu",
+  "description": "Hệ thống chấm thi và luyện tập câu so sánh bằng (Not as... as, Not so... as) và chuyển tính từ sang trạng từ theo thang điểm 10 chuẩn GD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
